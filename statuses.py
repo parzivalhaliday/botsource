@@ -1,0 +1,32 @@
+
+import discord
+
+statuses = [
+  discord.Game(name="ben büyüyünce Kalista olcam"),
+  discord.Game(name="Şampiyon su kapağım 'urgot,ornn,sett,darius,garen'"),
+  discord.Game(name="Hayır rakan benim"),
+  discord.Game(name="Knauc = Chad"),
+  discord.Game(name="Mal berke mal berke mal mal berke mal berke"),
+  discord.Game(name="Pineyi özledimㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="çiğköfte yiyom feedlersem kbㅤㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="burayı gerçekten okuyo musunㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="yuumi otp değilimㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="Neren acıyoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="umrumdışıㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ "),
+  discord.Game(name="WOWㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="sup kıtlığı = invite Protein Waifu"),
+  discord.Game(name="Gerçekten acıyom sana ya knaucㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="tommy gun + yuumi = winㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Game(name="lulu oynayan kızlar dmㅤㅤㅤㅤㅤㅤㅤㅤ"),
+  discord.Activity(type=discord.ActivityType.streaming,
+                   name="Ben yayıncı olcam",
+                   url="https://www.twitch.tv/parzivalhaliday"),
+  discord.Activity(type=discord.ActivityType.playing,
+                   name="League of Legends"),
+  discord.Activity(type=discord.ActivityType.competing,
+                   name="topta götten yeme"),
+  discord.Activity(type=discord.ActivityType.listening,
+                   name="Topa gank atmadığımda cyanın ağlamasını"),
+  discord.Activity(type=discord.ActivityType.competing,
+                   name="en iyi lulu kim"),
+]
